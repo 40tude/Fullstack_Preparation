@@ -1,13 +1,13 @@
-# Fullstack du 29 janvier au 19 avril
+# Fullstack du 29 janvier au 19 avril 2024
 * Fullstack = 12 semaines - 60 jours 
 * Lead = 4 semaines - 
-* Préparation = 15-2 = 13 semaines W42-W04 - Abondance Noel
+* Préparation = 15-2 = 13 semaines de W42 à W04 moins Noel & Abondance
 
 # Agenda de la préparation
 
 ## Tous les jours
-* Début Matin 2 hackerRank
-* Début Midi  2 SQL rank
+* Matin 2 hackerRank
+* Midi  2 SQL rank
 
 ## Agenda
 Voir feuille Excel dans ./assets
@@ -45,7 +45,7 @@ Week 05  | Début du stage fullstack                    |
 * ~~Final Project 1 days - 1.7%~~
 * ~~Machine Learning Engineer Certification 1 day - 1.7%~~
 
-# Technos abordées
+# Technos abordées - Mots clé
 * Git, Github
 * Scrum
 * Pandas
@@ -120,8 +120,6 @@ Week 05  | Début du stage fullstack                    |
 * WEEK 10 - Career Coaching 3 days -5.7%
 * WEEK 11 - Final Project 1 days - 1.7%
 * WEEK 12 - Machine Learning Engineer Certification 1 day - 1.7%
-
-
 
 # Préparation
 ## Python Programming
