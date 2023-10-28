@@ -6,15 +6,15 @@
 # Agenda de la préparation
 
 ## Tous les jours
-* Matin 2 hackerRank
-* Midi  2 SQL rank
+* Matin 2 exos HackerRank Python
+* Midi  2 exos HackerRank SQL
 
 ## Agenda
 Voir feuille Excel dans ./assets
 
 N° Week  | Titre                                       |Sujets
 ---      |:---:                                        |---: 
-Week 42  | Revoir Notes - Finir Exos - Stage Essential |
+Week 42  | Relire code - Finir Exos - Stage Essential  | Penser aux notes de OneNote, au OneNote de la préparation aux codes de la préparation
 Week 43  | Full - Deep Learning                        | Tensorflow, CNN, RNN, Transfert Learning
 Week 44  | Full - Deep Learning                        | GANN, Word Embedding, Encoder & Decoder, Attention
 Week 45  | Full - Supervised Machine Learning          | Sklearn, regression, regularization, hyperparamtre optimization, logistic regression, decision tree
